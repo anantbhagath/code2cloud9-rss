@@ -9,11 +9,11 @@
     <ttl>60</ttl>
     <atom:link href="https://rss.code2cloud9.org/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Your latest post title</title>
-      <link>https://www.code2cloud9.org/your-post-url</link>
-      <guid>https://www.code2cloud9.org/your-post-url</guid>
-      <pubDate>Tue, 31 Mar 2026 16:00:00 GMT</pubDate>
-      <description>Short summary of the post.</description>
+      <title>Mastering JWT Bearer Flow in Java</title>
+      <link>https://www.code2cloud9.org/community/automating-enterprise-integrations-mastering-jwt-bearer-flow-in-java</link>
+      <guid>https://www.code2cloud9.org/community/automating-enterprise-integrations-mastering-jwt-bearer-flow-in-java</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Deep dive into automating enterprise integrations using the JWT bearer flow in Java.</description>
     </item>
   </channel>
 </rss>
