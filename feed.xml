@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Code2Cloud9</title>
     <link>https://www.code2cloud9.org/</link>
@@ -24,6 +24,5 @@
       <pubDate>Tue, 10 Mar 2026 15:00:00 GMT</pubDate>
       <description>Short summary of the older post.</description>
     </item>
-
   </channel>
 </rss>
