@@ -8,7 +8,6 @@
     <lastBuildDate>Tue, 31 Mar 2026 17:03:00 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://rss.code2cloud9.org/feed.xml" rel="self" type="application/rss+xml" />
-
     <item>
       <title>Your latest post title</title>
       <link>https://www.code2cloud9.org/your-post-url</link>
@@ -16,7 +15,6 @@
       <pubDate>Tue, 31 Mar 2026 16:00:00 GMT</pubDate>
       <description>Short summary of the post.</description>
     </item>
-
     <item>
       <title>Your older post title</title>
       <link>https://www.code2cloud9.org/older-post-url</link>
