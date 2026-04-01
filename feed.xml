@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code2Cloud9</title>
     <link>https://www.code2cloud9.org/</link>
@@ -7,6 +7,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Mar 2026 17:03:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <atom:link href="https://rss.code2cloud9.org/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Your latest post title</title>
@@ -20,7 +21,7 @@
       <title>Your older post title</title>
       <link>https://www.code2cloud9.org/older-post-url</link>
       <guid>https://www.code2cloud9.org/older-post-url</guid>
-      <pubDate>Mon, 10 Mar 2026 15:00:00 GMT</pubDate>
+      <pubDate>Tue, 10 Mar 2026 15:00:00 GMT</pubDate>
       <description>Short summary of the older post.</description>
     </item>
 
