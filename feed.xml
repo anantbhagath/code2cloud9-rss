@@ -15,12 +15,5 @@
       <pubDate>Tue, 31 Mar 2026 16:00:00 GMT</pubDate>
       <description>Short summary of the post.</description>
     </item>
-    <item>
-      <title>Your older post title</title>
-      <link>https://www.code2cloud9.org/older-post-url</link>
-      <guid>https://www.code2cloud9.org/older-post-url</guid>
-      <pubDate>Tue, 10 Mar 2026 15:00:00 GMT</pubDate>
-      <description>Short summary of the older post.</description>
-    </item>
   </channel>
 </rss>
