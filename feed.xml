@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Code2Cloud9</title>
+    <link>https://www.code2cloud9.org/</link>
+    <description>Technical articles from Code2Cloud9</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2026 17:03:00 GMT</lastBuildDate>
+    <ttl>60</ttl>
+
+    <item>
+      <title>Your latest post title</title>
+      <link>https://www.code2cloud9.org/your-post-url</link>
+      <guid>https://www.code2cloud9.org/your-post-url</guid>
+      <pubDate>Tue, 31 Mar 2026 16:00:00 GMT</pubDate>
+      <description>Short summary of the post.</description>
+    </item>
+
+    <item>
+      <title>Your older post title</title>
+      <link>https://www.code2cloud9.org/older-post-url</link>
+      <guid>https://www.code2cloud9.org/older-post-url</guid>
+      <pubDate>Mon, 10 Mar 2026 15:00:00 GMT</pubDate>
+      <description>Short summary of the older post.</description>
+    </item>
+
+  </channel>
+</rss>
