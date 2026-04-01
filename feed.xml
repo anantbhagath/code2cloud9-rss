@@ -5,15 +5,71 @@
     <link>https://www.code2cloud9.org/</link>
     <description>Technical articles from Code2Cloud9</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 17:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:19:00 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://rss.code2cloud9.org/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mastering JWT Bearer Flow in Java</title>
+      <title>Automating Enterprise Integrations: Mastering JWT Bearer Flow in Java</title>
       <link>https://www.code2cloud9.org/community/automating-enterprise-integrations-mastering-jwt-bearer-flow-in-java</link>
       <guid>https://www.code2cloud9.org/community/automating-enterprise-integrations-mastering-jwt-bearer-flow-in-java</guid>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-      <description>Deep dive into automating enterprise integrations using the JWT bearer flow in Java.</description>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+      <description>In modern cloud environments, secure service-to-service communication often relies on JSON Web Tokens (JWT). Unlike simple Base64 encoding, the JWT Bearer Flow uses a digital signature created with a Private Key (RS256) to prove the requester's identity to an authorization server.</description>
+    </item>
+    <item>
+      <title>Gaining Fleet-Wide Visibility with the VCF Operations API</title>
+      <link>https://www.code2cloud9.org/learn-with-code-example/gaining-fleet-wide-visibility-with-the-vcf-operations-api</link>
+      <guid>https://www.code2cloud9.org/learn-with-code-example/gaining-fleet-wide-visibility-with-the-vcf-operations-api</guid>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
+      <description>While the SDDC Manager acts as the brain for infrastructure orchestration, VMware Cloud Foundation (VCF) 9.0 Operations (formerly part of the Aria Suite) is the nervous system. It provides deep visibility, predictive analytics, and performance monitoring required to manage a modern private cloud at scale.</description>
+    </item>
+    <item>
+      <title>Automating VCF Deployment with the Installer API</title>
+      <link>https://www.code2cloud9.org/learn-with-code-example/automating-vcf-deployment-with-the-installer-api</link>
+      <guid>https://www.code2cloud9.org/learn-with-code-example/automating-vcf-deployment-with-the-installer-api</guid>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+      <description>One of the most significant architectural shifts in VMware Cloud Foundation (VCF) 9.0 is the introduction of the VCF Installer. Replacing the legacy VMware Cloud Builder, the VCF Installer is now the unified engine for both Greenfield (fresh) deployments and Brownfield (converting existing vSphere) environments.</description>
+    </item>
+    <item>
+      <title>Mastering Domain Management with SDDC Manager API</title>
+      <link>https://www.code2cloud9.org/learn-with-code-example/getting-started-with-vcf-9-0-apis-a-developer-s-guide/mastering-domain-management-with-sddc-manager-api</link>
+      <guid>https://www.code2cloud9.org/learn-with-code-example/getting-started-with-vcf-9-0-apis-a-developer-s-guide/mastering-domain-management-with-sddc-manager-api</guid>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
+      <description>The SDDC Manager is the orchestration engine of VMware Cloud Foundation. While the UI provides a user-friendly way to view your environment, the SDDC Manager API allows you to treat your infrastructure as a programmable resource. In this post, we focus on Domain Management, the core of VCF operations.</description>
+    </item>
+    <item>
+      <title>Getting Started with VCF 9.0 APIs — A Developer's Guide</title>
+      <link>https://www.code2cloud9.org/learn-with-code-example/getting-started-with-vcf-9-0-apis-a-developer-s-guide</link>
+      <guid>https://www.code2cloud9.org/learn-with-code-example/getting-started-with-vcf-9-0-apis-a-developer-s-guide</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+      <description>VMware Cloud Foundation (VCF) 9.0 marks a significant shift toward a unified, API-first private cloud platform. For the modern infrastructure engineer, this means moving away from manual UI clicks and toward programmatic lifecycle management. VCF 9.0 consolidates the SDDC Manager, vSphere, and NSX into a cohesive API surface, allowing you to treat your entire data center as code.</description>
+    </item>
+    <item>
+      <title>Understanding VMware Cloud Foundation Automation for Private Cloud Platforms</title>
+      <link>https://www.code2cloud9.org/blogs/what-is-vmware-cloud-foundation-automation/2972982_understanding-vmware-cloud-foundation-automation-for-private-cloud-platforms</link>
+      <guid>https://www.code2cloud9.org/blogs/what-is-vmware-cloud-foundation-automation/2972982_understanding-vmware-cloud-foundation-automation-for-private-cloud-platforms</guid>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+      <description>VMware Cloud Foundation Automation is the automation and self-service layer of VMware Cloud Foundation. It enables infrastructure teams to deliver private cloud resources — such as virtual machines, Kubernetes environments, and related services — through standardized, automated workflows rather than manual provisioning.</description>
+    </item>
+    <item>
+      <title>Why VMware Practitioners Should Use VMUG Advantage for Hands-On Learning</title>
+      <link>https://www.code2cloud9.org/blogs/why-vmware-practitioners-should-use-vmug-advantage-for-hands-on-learning/2972922_why-vmware-practitioners-should-use-vmug-advantage-for-hands-on-learning</link>
+      <guid>https://www.code2cloud9.org/blogs/why-vmware-practitioners-should-use-vmug-advantage-for-hands-on-learning/2972922_why-vmware-practitioners-should-use-vmug-advantage-for-hands-on-learning</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+      <description>Why VMware practitioners should leverage VMUG Advantage for hands-on learning, certifications, and community engagement to stay current with the evolving VMware ecosystem.</description>
+    </item>
+    <item>
+      <title>Why Practitioners Should Consider VMware Cloud Foundation 9 (VCF 9)</title>
+      <link>https://www.code2cloud9.org/blogs/why-use-vcf-9/2973000_why-practitioners-should-consider-vmware-cloud-foundation-9-vcf-9</link>
+      <guid>https://www.code2cloud9.org/blogs/why-use-vcf-9/2973000_why-practitioners-should-consider-vmware-cloud-foundation-9-vcf-9</guid>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Modern infrastructure teams are under pressure to deliver cloud-like agility with enterprise-grade control, security, and lifecycle reliability. VMware Cloud Foundation 9 addresses these challenges as a unified private cloud platform.</description>
+    </item>
+    <item>
+      <title>Why Practitioners Should Consider VMware Cloud Foundation 9 (VCF 9)</title>
+      <link>https://www.code2cloud9.org/blogs/why-vmware-cloud-foundation-should-be-at-the-heart-of-your-cloud-strategy/2196500_why-practitioners-should-consider-vmware-cloud-foundation-9-vcf-9</link>
+      <guid>https://www.code2cloud9.org/blogs/why-vmware-cloud-foundation-should-be-at-the-heart-of-your-cloud-strategy/2196500_why-practitioners-should-consider-vmware-cloud-foundation-9-vcf-9</guid>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+      <description>Modern infrastructure teams are under pressure to deliver cloud-like agility with enterprise-grade control, security, and lifecycle reliability. As environments grow more complex — spanning virtualization, containers, automation, and multi-cloud — platform consistency becomes more important than ever.</description>
     </item>
   </channel>
 </rss>
